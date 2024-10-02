@@ -19,6 +19,11 @@ hack
 ![hack](https://github.com/user-attachments/assets/adb08a90-6102-48f6-8c5d-287d8f904e67)
 persona
 ![persona](https://github.com/user-attachments/assets/67ec2f2f-42db-4d42-97d5-1be9bc4d8c7c)
+logo
+![taykor](https://github.com/user-attachments/assets/d56aa377-bd01-48df-bcc0-7dbbc0a59ed3)
+
+azapa
+![axapa](https://github.com/user-attachments/assets/1b4ce549-2a6c-4885-9796-8252a034bda3)
 
 --- fotos collage
 
