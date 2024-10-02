@@ -42,7 +42,13 @@ stem
 
 quimiot
 ![quimiot](https://github.com/user-attachments/assets/13a3c23f-f227-4241-988d-9b2b9e050ca6)
+logos
+![logoss](https://github.com/user-attachments/assets/2a298822-7cef-4785-9e3f-67c33918838a)
+azapa
+![azaaapa](https://github.com/user-attachments/assets/4b5bb55c-f038-46bc-9989-b516bcdb78e6)
 
+
+--
 foto mia
 ![WhatsApp Image 2023-12-20 at 00 24 54](https://github.com/user-attachments/assets/fb9bc27b-3643-4f72-8d79-5e4cfa6a8999)
 
