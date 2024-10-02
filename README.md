@@ -49,6 +49,8 @@ logos
 azapa
 ![azaaapa](https://github.com/user-attachments/assets/4b5bb55c-f038-46bc-9989-b516bcdb78e6)
 
+persona
+![perrrr](https://github.com/user-attachments/assets/a75edf25-a4a8-4d5a-b15d-1e411ff83422)
 
 --
 foto mia
