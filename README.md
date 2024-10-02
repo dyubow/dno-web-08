@@ -20,3 +20,20 @@ hack
 persona
 ![persona](https://github.com/user-attachments/assets/67ec2f2f-42db-4d42-97d5-1be9bc4d8c7c)
 
+--- fotos collage
+
+coblu
+![coblu](https://github.com/user-attachments/assets/00fa0ce6-d987-42b8-9c4d-e90376200d42)
+hack
+![hackear](https://github.com/user-attachments/assets/cbbd79b3-ff59-4ba6-8c0e-9f5f86a20749)
+frut
+![frutinez](https://github.com/user-attachments/assets/afd108e2-5b96-414c-a9a9-4c2dc761b6fd)
+dulzu
+![dulzura](https://github.com/user-attachments/assets/34fd4062-8bf2-4c9e-8069-1af96dfbdff3)
+zen
+![zen](https://github.com/user-attachments/assets/71fd505c-e810-46ee-b41c-2a1ccaf6a5e1)
+stem
+![stem](https://github.com/user-attachments/assets/2dc45c19-9fba-4094-aab0-6abf50630032)
+
+quimiot
+![quimiot](https://github.com/user-attachments/assets/13a3c23f-f227-4241-988d-9b2b9e050ca6)
