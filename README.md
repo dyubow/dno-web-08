@@ -1,6 +1,7 @@
 # dno-web-08
 coblu
-![coblu](https://github.com/user-attachments/assets/b6c2f786-1924-41a2-a996-521a9956ab70)
+![cobl2](https://github.com/user-attachments/assets/c747cb7f-ced4-4f07-b056-02bf11ae6263)
+
 quimio
 ![quimio](https://github.com/user-attachments/assets/ef97f77c-0be8-4e42-83b8-a5978abe2bf3)
 futu
@@ -28,7 +29,8 @@ azapa
 --- fotos collage
 
 coblu
-![coblu](https://github.com/user-attachments/assets/00fa0ce6-d987-42b8-9c4d-e90376200d42)
+![coblucoblu](https://github.com/user-attachments/assets/e69acb97-083e-450b-9e64-b0e75705797b)
+
 hack
 ![hackear](https://github.com/user-attachments/assets/cbbd79b3-ff59-4ba6-8c0e-9f5f86a20749)
 frut
